@@ -1,0 +1,9 @@
+{
+    "mongoURI": "mongodb+srv://Nisha:Nisha123@devconnector-l1y7r.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubClientId": "99e5b98eaf2e29e1d84e",
+    "guthubSecret": "c2f1628e4a79a3aba74dac5cc8ca03effc8fe962"
+  }
+  
+
+  
